@@ -18,7 +18,7 @@ Add Bleed effect to an element inside a wrapper using calc, Viewport unit and ps
 		width: calc(100% + 30px);
 		background-color: black;
 		position: absolute;
-		left: -15px;
+		left: -10px;
 		content: '';
 		z-index: -1;
 		bottom: 0;
